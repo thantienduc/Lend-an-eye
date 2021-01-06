@@ -1,0 +1,15 @@
+{
+  "name": "Lend-An-Eye-App",
+  "displayName": "Lend-An-Eye-App",
+  "expo": {
+    "name": "Lend-An-Eye-App",
+    "slug": "Lend-An-Eye-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.tk377299.LendAnEyeApp"
+    }
+  }
+}
